@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "content": "This is the first post."
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "content": "This is the second post."
+    },
+    {
+      "id": "87b8",
+      "title": "First Post",
+      "content": "This is the first post."
+    },
+    {
+      "id": "c025",
+      "title": "First Post",
+      "content": "This is the first post."
+    },
+    {
+      "id": "7740",
+      "title": "First Post",
+      "content": "This is the first post."
+    },
+    {
+      "id": "f73e",
+      "title": "First Post",
+      "content": "This is the first post."
+    },
+    {
+      "id": "69ec",
+      "title": "First Post",
+      "content": "yoav1."
+    },
+    {
+      "id": "f03f",
+      "title": "First Post",
+      "content": "yoav1."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@example.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "text": "Great post!"
+    },
+    {
+      "id": "2",
+      "postId": 2,
+      "text": "Very informative."
+    }
+  ]
+}
